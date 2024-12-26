@@ -1,4 +1,4 @@
-# Dziennik doktora Bartka Kulczyńksiego
+# Dziennik doktora Bartka Kulczyńskiego
 
 <https://drbartek.pl/>
 
@@ -12,5 +12,5 @@ Zapisz się [tutaj](https://drbartek.pl/dziennik-poranny/)
 
 ## Social media
 
-[Youtube dr. Bartek](https://www.youtube.com/@drbartekpl)
-[Youtube dr. Bartek krócej](https://www.youtube.com/@drbartek-krocej)
+- [Youtube dr. Bartek](https://www.youtube.com/@drbartekpl)
+- [Youtube dr. Bartek krócej](https://www.youtube.com/@drbartek-krocej)
