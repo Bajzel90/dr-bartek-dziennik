@@ -1,3 +1,9 @@
+---
+id: 2024-06-17-Żywność liofilizowana
+aliases: []
+tags: []
+---
+
 # Liofilizowane owoce, warzywa i nie tylko; czy są wartościowe?
 
 Dzień dobry o poranku,
@@ -34,15 +40,11 @@ Wobec tego produkty liofilizowane są zdrowym wyborem.
 
 Poza tym mają jeszcze kilka innych zalet:
 
-✓ zwykle zachowują swój smak, aromat i barwę;
-
-✓ cechują się dłuższą trwałością;
-
-✓ są lekkie, stąd sprawdzą się np. w podróży;
-
-✓ poza szczelnym zamknięciem, nie wymagają szczególnych warunków przechowywania;
-
-✓ można stosować je jako składnik wielu potraw.
+- zwykle zachowują swój smak, aromat i barwę;
+- cechują się dłuższą trwałością;
+- są lekkie, stąd sprawdzą się np. w podróży;
+- poza szczelnym zamknięciem, nie wymagają szczególnych warunków przechowywania;
+- można stosować je jako składnik wielu potraw.
 
 I jak pisałem na początku, liofilizacji możemy poddawać nie tylko owoce, ale też warzywa, mięso, ryby, zioła, a nawet dania gotowe.
 
@@ -51,9 +53,9 @@ I jak pisałem na początku, liofilizacji możemy poddawać nie tylko owoce, ale
 To przede wszystkim koszty:
 
 - sprzęt potrzebny do liofilizacji jest kosztowny;
-
 - proces liofilizacji jest energochłonny.
 
 W efekcie produkty liofilizowane są drogie, droższe od świeżych i sezonowych warzyw i owoców.
 
 dr Bartek Kulczyński
+
