@@ -1,4 +1,4 @@
-# Dlaczego warto robić pesto i pomysły, jak je wykorzystać w kuchni.
+# Dlaczego warto robić pesto i pomysły, jak je wykorzystać w kuchni
 
 Pesto uważam za całkiem zdrowy dodatek do posiłków.
 

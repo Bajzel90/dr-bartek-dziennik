@@ -62,3 +62,4 @@ A przy problemach z zasypianiem można zrobić napar z podwójnej ilości chmiel
 Chmiel jest ogólnie składnikiem bezpiecznym dla zdrowia.
 
 Jednak nie zaleca się jego stosowania w przypadku dzieci poniżej 12. roku życia oraz kobiet ciężarnych i karmiących piersią.
+

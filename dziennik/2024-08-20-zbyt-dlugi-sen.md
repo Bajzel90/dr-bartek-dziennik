@@ -57,3 +57,4 @@ Dotyczy to powtarzających się epizodów długiego snu, a nie pojedynczych sytu
 Poza wiekiem i stanem zdrowia – optymalna dla nas długość snu może być uzależniona od samej jakości snu, a także uwarunkowań genetycznych, ekspozycji na naturalne światło za dnia oraz zmian hormonalnych.
 
 Niemniej, gdy osoba dorosła od dłuższego czasu, np. kilku tygodni, zauważa u siebie, że śpi 9-10 godzin i więcej, to jest to wskazaniem, aby udać się do specjalisty na konsultację i przyjrzeć się zdrowiu.
+

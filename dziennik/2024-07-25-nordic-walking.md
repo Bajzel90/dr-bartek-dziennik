@@ -56,3 +56,4 @@ Z kolei maszerowanie jest prostsze i mniej wymagające pod kątem technicznym i 
 Uważam więc, że jeśli mamy taką możliwość, to warto praktykować nordic walking, bo może zapewnić nam bardzo dobre efekty.
 
 Jeśli zaś nie chcemy wydawać na kijki i poświęcać czasu na naukę prawidłowej techniki nordic walking – to spacer czy marsz również będzie oczywiście dobrym rozwiązaniem. Byle regularnie.
+

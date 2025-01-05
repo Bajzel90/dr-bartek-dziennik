@@ -1,9 +1,3 @@
----
-id: 2024-10-25-piramida-żywieniowa
-aliases: []
-tags: []
----
-
 # Piramida żywieniowa diety, na której zdrowie się poprawia
 
 Dzień dobry o poranku,

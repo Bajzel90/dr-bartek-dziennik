@@ -61,3 +61,4 @@ A jeżeli chodzi o słodziki, których poza cukrem stołowym osobiście unikam, 
 cukier brązowy, fruktoza, sukraloza, sacharyna, acesulfam K, aspartam, cyklaminian sodu, syrop z agawy i syrop klonowy.
 
 Przyznam, że niekiedy zdarzy mi się użyć tego ostatniego, ale są to sporadyczne przypadki.
+

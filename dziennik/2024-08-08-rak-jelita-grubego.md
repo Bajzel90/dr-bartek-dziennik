@@ -1,4 +1,4 @@
-# O tym, jak uchronić się przed jednym z częstszych nowotworów złośliwych.
+# O tym, jak uchronić się przed jednym z częstszych nowotworów złośliwych
 
 Dzień dobry o poranku,
 
@@ -73,3 +73,4 @@ Jednak dla ścisłości podam, że dieta zasobna w słodkości powoduje wzrost z
 Warto zatem ograniczyć słodycze, wyroby cukiernicze czy napoje słodzone i oczywiście cukier stołowy.
 
 dr Bartek Kulczyński
+

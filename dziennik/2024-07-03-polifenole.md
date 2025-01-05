@@ -1,4 +1,4 @@
-# Zadbaj o nie w diecie – polifenole, ich działanie i najlepsze źródła.
+# Zadbaj o nie w diecie – polifenole, ich działanie i najlepsze źródła
 
 Dzień dobry o poranku,
 
@@ -75,3 +75,4 @@ Niemniej, jeśli zmagamy się z niedoborem żelaza, to należy zrobić sobie kil
 Ponadto polifenole obecne w soku grejpfrutowym mogą wchodzić w interakcje z przyjmowanymi lekami (zwiększając lub zmniejszając skuteczność ich działania, co jest niekorzystne). Z tego względu nigdy nie popijamy leków sokiem grejpfrutowym.
 
 dr Bartek Kulczyński
+

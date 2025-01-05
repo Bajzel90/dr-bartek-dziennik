@@ -1,9 +1,3 @@
----
-id: 2024-10-29-nadmierny-apetyt
-aliases: []
-tags: []
----
-
 # Czytelniczka pisze: „Ciągle bym tylko jadła, z czego to wynika?”. Podpowiadam
 
 Dzień dobry o poranku,

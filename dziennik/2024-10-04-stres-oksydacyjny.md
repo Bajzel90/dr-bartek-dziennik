@@ -1,4 +1,4 @@
-# Stres oksydacyjny - niszczyciel zdrowia oraz jak mu przeciwdziałać.
+# Stres oksydacyjny - niszczyciel zdrowia oraz jak mu przeciwdziałać
 
 Dzień dobry o poranku,
 
@@ -69,3 +69,4 @@ Witamina E: pestki słonecznika, olej z kiełków pszenicy, orzechy laskowe, ole
 Selen: orzechy brazylijskie, ryby (halibut, śledź, sardynki, łosoś, dorsz, flądra), wołowina, żółtka, wątróbka z gęsi, owoce morza.
 
 Jeśli chodzi o stres oksydacyjny i łagodzenie stanów zapalnych, to polecę na koniec dla chętnych mój jadłospis przeciwzapalny, który cechuje się dużą zawartością przeciwutleniaczy i pomaga zwalczyć szkodliwy nadmiar wolnych rodników.
+

@@ -55,3 +55,4 @@ Ponadto alga ta dobrze komponuje się z rybami i owocami morza, dodając im gł�
 Oczywiście kombu jest również wykorzystywane do sporządzania sushi. Choć w tym przypadku częściej stosowaną algą jest nori.
 
 Algi morskie (zwykle w formie suszonej) są dość łatwo dostępne w sklepach stacjonarnych, w tym sieciach handlowych, sklepach z artykułami kuchni azjatyckiej, czy sklepach ze zdrową żywnością.
+

@@ -1,4 +1,4 @@
-# Przewlekły stan zapalny sprzyja wielu chorobom. Oto zioła, które pomogą.
+# Przewlekły stan zapalny sprzyja wielu chorobom. Oto zioła, które pomogą
 
 Dzień dobry o poranku,
 
@@ -73,3 +73,4 @@ Oczywiście, aby skutecznie przeciwdziałać przewlekłemu stanowi zapalnemu, na
 - poprawia pracę mózgu (pamięć, koncentrację);
 
 - chroni wątrobę przed stłuszczeniem.
+

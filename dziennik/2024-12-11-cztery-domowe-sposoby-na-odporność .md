@@ -65,3 +65,4 @@ W małym garnku podgrzej mleko na średnim ogniu, ale nie doprowadzaj do wrzenia
 Gotuj na wolnym ogniu przez 2-3 minuty, aby składniki się połączyły. Zdejmij z ognia, lekko przestudź i dodaj miód.
 
 Po przelaniu do kubka można podawać na ciepło.
+

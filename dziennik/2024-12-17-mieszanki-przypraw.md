@@ -1,4 +1,4 @@
-# Mieszanka przyprawowa do zup, potraw i sosów, która poprawi trawienie.
+# Mieszanka przyprawowa do zup, potraw i sosów, która poprawi trawienie
 
 Dzień dobry o poranku,
 
@@ -16,18 +16,18 @@ Korzystając z bogactwa roślin przyprawowych, sporządzam swoje własne mieszan
 
 W jednym z pojemniczków w mojej kuchennej szafce znajduje się następująca mieszanka przyprawowa:
 
-- 1 łyżeczka kurkumy, 
-- 2 łyżeczki imbiru, 
-- 1 łyżeczka chili, 
-- 1 łyżeczka pieprzu, 
-- 1 łyżeczka kminu rzymskiego, 
-- 0,5 łyżeczki nasion kolendry, 
-- 0,5 łyżeczki kardamonu, 
-- 2-3 szt. goździków, 
-- 2 liście laurowe, 
+- 1 łyżeczka kurkumy,
+- 2 łyżeczki imbiru,
+- 1 łyżeczka chili,
+- 1 łyżeczka pieprzu,
+- 1 łyżeczka kminu rzymskiego,
+- 0,5 łyżeczki nasion kolendry,
+- 0,5 łyżeczki kardamonu,
+- 2-3 szt. goździków,
+- 2 liście laurowe,
 - 1 łyżka lubczyku.
 
-Tak dobrane przyprawy podkreślą smak potraw oraz sprawdzą się jako *środek* przeciw dolegliwościom żołądkowo-jelitowym.
+Tak dobrane przyprawy podkreślą smak potraw oraz sprawdzą się jako _środek_ przeciw dolegliwościom żołądkowo-jelitowym.
 
 **Instrukcja**: wystarczy połączyć z sobą wszystkie składniki, krótko podgrzać je na patelni bez dodatku tłuszczu, przełożyć do młynka i zmielić do uzyskania jednolitej konsystencji.
 
@@ -50,3 +50,4 @@ Oto dlaczego taki dobór jest korzystny dla zdrowia na przykładzie kilku przypr
 - **Lubczyk** – przyspiesza trawienie, przeciwdziała wzdęciom, a także reguluje właściwą fermentację w jelitach. Pomaga przy wzdęciach i niestrawności, bólu brzucha i braku łaknienia.
 
 - **Liść laurowy** – poprawia on trawienie i przyswajanie składników pokarmowych. Działa żółciotwórczo i żółciopędnie.
+

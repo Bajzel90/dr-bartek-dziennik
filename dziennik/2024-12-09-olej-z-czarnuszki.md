@@ -1,4 +1,4 @@
-# Olej z czarnuszki: komu i na co pomoże oraz jak go stosować.
+# Olej z czarnuszki: komu i na co pomoże oraz jak go stosować
 
 Dzień dobry o poranku,
 
@@ -65,3 +65,4 @@ Bazując na pracach naukowych, można polecić 1 łyżeczkę oleju z czarnuszki 
 Przed jego zastosowaniem trzeba mieć jednak na uwadze fakt, że nie wszyscy akceptują jego smak, który jest nieco gorzkawy, lekko pikantny, z wyczuwalnym ziołowym i pieprznym aromatem.
 
 Osobom, które nie przepadają za smakiem, a chciałyby skorzystać na jego działaniu zdrowotnym – można polecić rozcieńczenie go w miodzie, musie malinowym lub syropie z bzu czarnego.
+

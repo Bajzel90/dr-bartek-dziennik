@@ -1,4 +1,4 @@
-# Co jeść, żeby nie brakowało nam jodu, czyli jak uniknąć objawów niedoboru.
+# Co jeść, żeby nie brakowało nam jodu, czyli jak uniknąć objawów niedoboru
 
 Dzień dobry o poranku,
 
@@ -58,4 +58,3 @@ Otóż jak dowiedli naukowcy, oddychanie morskim powietrzem nie jest bardzo skut
 Prace naukowe wskazują, że w ciągu całego dnia jesteśmy w stanie wchłonąć od kilku do kilkunastu mikrogramów jodu. A to jest tylko kropla w morzu potrzeb naszego organizmu.
 
 Natomiast warto spacerować brzegiem morza, bo to ogólnie dobre dla zdrowia.
-

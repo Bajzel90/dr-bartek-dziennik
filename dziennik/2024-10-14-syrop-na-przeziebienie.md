@@ -1,4 +1,4 @@
-# Syrop z 6 składników ogólnie dobry dla zdrowia, a szczególnie „gdy nas bierze”.
+# Syrop z 6 składników ogólnie dobry dla zdrowia, a szczególnie „gdy nas bierze”
 
 Dzień dobry o poranku,
 
@@ -28,14 +28,14 @@ Skoro wiadomo już, dlaczego warto wykorzystać podane składniki syropu, zobacz
 
 Ilości potrzebnych składników:
 
-- 2 czerwone cebule, 
-- 4 ząbki czosnku, 
-- 1 cytryna, 
-- 5-6 łyżeczek miodu, 
-- 3-4 cm kawałek świeżego imbiru, 
-- 1 łyżeczka kurkumy, 
-- 0,5 łyżeczki czarnego pieprzu, 
-- 0,5 łyżeczki cynamonu, 
+- 2 czerwone cebule,
+- 4 ząbki czosnku,
+- 1 cytryna,
+- 5-6 łyżeczek miodu,
+- 3-4 cm kawałek świeżego imbiru,
+- 1 łyżeczka kurkumy,
+- 0,5 łyżeczki czarnego pieprzu,
+- 0,5 łyżeczki cynamonu,
 - gałązka rozmarynu.
 
 Sposób sporządzenia syropu:
@@ -64,3 +64,4 @@ Sposób sporządzenia syropu:
 12. Po upływie 2 dni, przesącz syrop przez gazę.
 
 Syrop wykorzystujemy w ciągu ok. 3-4 dni, stosując ok. 3-5 łyżek dziennie. Po około tygodniu spożywania robimy sobie przerwę na tydzień, po czym możemy wrócić do jego stosowania.
+

@@ -1,4 +1,4 @@
-# Dlaczego warto teraz dostarczać więcej przeciwutleniaczy i gdzie jest ich dużo.
+# Dlaczego warto teraz dostarczać więcej przeciwutleniaczy i gdzie jest ich dużo
 
 Dzień dobry o poranku,
 
@@ -75,3 +75,4 @@ Dlatego codziennie warto dostarczać sporo antyoksydantów.
 **Inne**: gorzka czekolada, oliwa.
 
 dr Bartek Kulczyński
+

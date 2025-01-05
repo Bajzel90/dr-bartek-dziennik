@@ -44,10 +44,11 @@ W przypadku ludzi trudno byłoby wykonać rzetelne badanie w tym zakresie. Przyn
 
 6. Wiedza żywieniowa – kiedy mamy wiedzę o tym, że organizm potrzebuje np. żelaza czy też białka, możemy świadomie sięgać po produkty, które zawierają te składniki, zamiast polegać na naszych instynktownych odczuciach czy sygnałach wewnętrznych. I tego rodzaju decyzje mogą być dyktowane nie instynktem, lecz wiedzą, co zakłóca naturalną autoregulację.
 
-## Ale wiele lat temu, bo w 1939 r.
+## Ale wiele lat temu, bo w 1939 r
 
 ukazała się praca, w której jej autorka opisała wnioski z badania z udziałem ludzi, a konkretnie niemowląt, co eliminuje te czynniki, o których napisałem powyżej [3].
 
 I jedną z ciekawych obserwacji było to, jak niemowlę cierpiące na krzywicę wybierało olej z wątroby dorsza, naturalnie zawierający witaminę D. Niemowlę robiło to do momentu, aż w jego organizmie uregulował się poziom wapnia i fosforu, a badania rentgenowskie wskazały na wyleczenie krzywicy. Po tym czasie niemowlę już nie wybierało ponownie oleju.
 
 Temat ten jest słabo zbadany. Postanowiłem jednak go poruszyć bardziej ciekawostkowo i może otworzyć dyskusję.
+

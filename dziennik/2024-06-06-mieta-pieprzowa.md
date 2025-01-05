@@ -1,9 +1,3 @@
----
-id: 2024-06-06-mieta-pieprzowa
-aliases: []
-tags: []
----
-
 # Mięta pieprzowa to nie tylko orzeźwienie
 
 Dzień dobry o poranku,
@@ -43,4 +37,3 @@ smoothie arbuzowo-miętowe (znakomicie się sprawdzi, gdy jest gorąco); sałatk
 Arbuz również działa orzeźwiająco. Jeśli chcieliby Państwo, żebym go opisał: właściwości zdrowotne i wykorzystanie w kuchni – to z przyjemnością to zrobię. O arbuzie pisałem raz, jakiś rok temu.
 
 dr Bartek Kulczyński
-

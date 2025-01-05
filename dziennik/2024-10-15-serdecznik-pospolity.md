@@ -1,11 +1,10 @@
-# Zioło pomocne dla osób, które żyją w ciągłym stresie.
+# Zioło pomocne dla osób, które żyją w ciągłym stresie
 
 Dzień dobry o poranku,
 
 żywcem ze słownika języka polskiego:
 
 > stan wzmożonego napięcia nerwowego, będący reakcją na działanie negatywnych bodźców fizycznych / psychicznych, mogący wywołać ogólną mobilizację sił organizmu lub, przy dłuższym trwaniu, powodować zaburzenia czynnościowe, a nawet schorzenia organiczne
-
 
 …czyli stres – zdrowie potrafi nieźle oberwać w wielu aspektach, jeśli żyjemy w ciągłym stresie. Przewlekły stres ma np. szczególnie szkodliwy wpływ na układ nerwowy i serce.
 
@@ -17,11 +16,11 @@ A dziś opiszę Państwu jeden ze sposobów, o którym jeszcze nigdy nie pisałe
 
 Zidentyfikowano w nim szereg ważnych związków bioaktywnych, które mogą pomóc we wspomnianym zakresie, między innymi:
 
-- glikozydy bufanolidowe, 
-- saponiny trójterpenowe, 
-- alkaloidy, 
-- garbniki pirokatechinowe, 
-- flawonoidy, 
+- glikozydy bufanolidowe,
+- saponiny trójterpenowe,
+- alkaloidy,
+- garbniki pirokatechinowe,
+- flawonoidy,
 - antocyjany.
 
 Obecność tych składników warunkuje pozytywny wpływ na układ nerwowy i układ krążenia człowieka.
@@ -63,3 +62,4 @@ Jednakże, z uwagi na znane działanie serdecznika, w mojej ocenie ostrożność
 • osoby z niedociśnieniem tętniczym,
 • osoby stosujące leki nasercowe,
 • kobiety ciężarne.
+

@@ -1,9 +1,3 @@
----
-id: 2024-05-24-różeniec-górski
-aliases: []
-tags: []
----
-
 # Różeniec górski na zmęczenie i ogólne wzmocnienie. Jak go stosować?
 
 Dzień dobry o poranku,

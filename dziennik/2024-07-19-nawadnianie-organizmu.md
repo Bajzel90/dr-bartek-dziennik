@@ -1,4 +1,4 @@
-# Nie do końca prawdziwych informacji o nawadnianiu jest sporo. Oto 4 z nich.
+# Nie do końca prawdziwych informacji o nawadnianiu jest sporo. Oto 4 z nich
 
 Dzień dobry o poranku,
 
@@ -24,7 +24,7 @@ Podgrzanie 1 grama wody o 1 stopień Celsjusza wymaga 1 kalorii (nie mylić z ki
 
 Zakładając, że pijemy 500 ml zimnej wody o temp. 0℃ i organizm musi ją podgrzać do 37℃, zużyje zaledwie około 18,5 kilokalorii:
 
-500 g * 37℃ / 1000 = 18,5 kcal
+500 g \* 37℃ / 1000 = 18,5 kcal
 
 A zatem, mimo że picie zimnej wody może prowadzić do małego wzrostu wydatku energetycznego, to jest on zbyt mały, żeby miał jakikolwiek wpływ na utratę wagi.
 
@@ -51,3 +51,4 @@ dr Bartek Kulczyński
 Przywołana literatura:
 
 [1] J. Woźniak-Holecka, K. Zborowska, T. Holecki, Medycyna alternatywna jako uzupełniająca forma leczenia chorób nowotworowych w opinii pacjentów onkologicznych, „Psychoonkologia” 2010.
+

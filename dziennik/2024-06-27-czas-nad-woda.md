@@ -1,4 +1,4 @@
-# Dlaczego organizm tak lubi wodę? Mniej znane oddziaływanie.
+# Dlaczego organizm tak lubi wodę? Mniej znane oddziaływanie
 
 Dzień dobry o poranku,
 
@@ -43,4 +43,3 @@ dr Bartek Kulczyński
 Przywołana literatura:
 
 [1] R.G. Coss, C.M. Keller, Transient decreases in blood pressure and heart rate with increased subjective level of relaxation while viewing water compared with adjacent ground, „Journal of Environmental Psychology” 2022.
-

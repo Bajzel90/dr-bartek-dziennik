@@ -45,3 +45,4 @@ Omawianym tematem zaczęto się szerzej interesować stosunkowo niedawno – dla
 Jednak wyciągając szczątkowe dane z literatury fachowej, pomocne mogą się okazać:
 
 ćwiczenia rozciągające mięśnie, stosowanie diety zasobnej w magnez i witaminy z grupy B, regularna aktywność fizyczna, odpowiednie nawadnianie ciała, zadbanie o naturalny rytm okołodobowy (np. chodzenie spać i wstawanie o tych samych porach) terapia światłem, akupunktura.
+

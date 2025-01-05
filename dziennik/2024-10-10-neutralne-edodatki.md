@@ -1,4 +1,4 @@
-# Dodatki „E”, których wcale nie trzeba się obawiać na etykiecie. Są neutralne.
+# Dodatki „E”, których wcale nie trzeba się obawiać na etykiecie. Są neutralne
 
 Dzień dobry o poranku,
 
@@ -69,3 +69,4 @@ Badania pokazują, że guma guar odżywia dobroczynne bakterie w jelitach, regul
 ilości dodatków stosowane do żywności są zbyt małe, aby mogły wywrzeć efekt prozdrowotny, np. jeśli chodzi o witaminę C czy też kurkuminę.
 
 Wymienione dodatki są po prostu dla zdrowia neutralne, a do tego pomagają wyprodukować trwalszą żywność i atrakcyjniejszą pod względem smaku, barwy czy konsystencji.
+

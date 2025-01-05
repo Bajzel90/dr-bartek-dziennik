@@ -1,4 +1,4 @@
-# Które soki warzywne warto pić? Na te 3 warto zwrócić uwagę.
+# Które soki warzywne warto pić? Na te 3 warto zwrócić uwagę
 
 Dzień dobry o poranku,
 
@@ -27,6 +27,7 @@ Oto jakich efektów zdrowotnych można po nich oczekiwać.
 Dobre źródło beta-karotenu – dzięki procesowi produkcji beta-karoten ze świeżej marchwi uwalnia się z połączeń komórkowych, przez co staje lepiej dostępny dla naszego organizmu.
 
 Beta-karoten ma kilka potwierdzonych właściwości:
+
 - zapobiega rozwojowi zaćmy;
 
 - chroni przed rozwojem choroby Parkinsona;
@@ -60,3 +61,4 @@ Podsumuję: warto włączać do jadłospisu soki warzywne, głównie świeżo wy
 Postawą powinny być natomiast świeże warzywa i owoce. Moje gotowe jadłospisy nastawione na poprawę zdrowia i wycofywanie chorób dietozależnych zawierają smaczne i proste przepisy, które zarazem są kreatywne i przez to zachęcają do większego spożycia owoców i warzyw.
 
 dr Bartek Kulczyński
+

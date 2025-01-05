@@ -1,4 +1,4 @@
-# Proste praktyki, które wydłużą życie w zdrowiu oraz piątkowa refleksja.
+# Proste praktyki, które wydłużą życie w zdrowiu oraz piątkowa refleksja
 
 Dzień dobry o poranku,
 
@@ -89,3 +89,4 @@ Im jesteśmy starsi, tym zazwyczaj słabiej odczuwamy potrzebę sięgania po co�
 zaburzeniom pamięci i koncentracji, pogorszeniu widzenia, przewlekłym zaparciom, chorobom sercowo-naczyniowym i chorobom nerek, a także infekcjom dróg moczowych.
 
 Dobrego weekendu.
+

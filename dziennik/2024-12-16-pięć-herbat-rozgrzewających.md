@@ -1,4 +1,4 @@
-# Dla zdrowia i przyjemności: 5 herbatek rozgrzewających.
+# Dla zdrowia i przyjemności: 5 herbatek rozgrzewających
 
 Dzień dobry o poranku,
 
@@ -61,3 +61,4 @@ wczoraj nie dodała mi się piąta herbatka. Jest ona wartościowa dla zdrowia, 
 **Przygotowanie**:
 
 W kubku umieść herbatę, suszone kwiaty hibiskusa, a także laskę cynamonu i plasterki jabłka. Zalej gorącą wodą (około 90°C). Parz przez 5-7 minut, aż napar nabierze rubinowego koloru. Następnie wyjmij herbatę i dodatki, a jeśli chcesz, dodaj miód i wymieszaj.
+

@@ -1,4 +1,4 @@
-# Dlaczego ludzie zamieszkujący wyspę Ikaria żyją dłużej? Oto 6 powodów.
+# Dlaczego ludzie zamieszkujący wyspę Ikaria żyją dłużej? Oto 6 powodów
 
 Dzień dobry o poranku,
 
@@ -47,3 +47,4 @@ Na Ikarii często organizowane są lokalne święta i festyny, które gromadzą 
 Widać zatem, że nie ma nic wielce odkrywczego, chociaż zapewne podane informacje procentowe dla wielu osób są imponujące.
 
 W istocie podejrzewam, że wielu z Państwa doskonale wie, co jest potrzebne, by żyć długo i zdrowo. Wyzwanie stanowi to, żeby się zdyscyplinować i trwale zmienić nawyki żywieniowe i te dotyczące stylu życia. I o tym też będą Dzienniki.
+

@@ -58,4 +58,3 @@ Różne leki na różne sposoby mogą prowadzić do niedokrwistości, czyli anem
 Spożywanie dużych ilości alkoholu blokuje wchłanianie witaminy B9 (folianów), prowadząc do obniżenia poziomu tejże witaminy w organizmie. A jej brak również jest związany z rozwojem anemii i pojawieniem się typowych dla niej objawów.
 
 Anemia to poważny problem zdrowotny i mający wiele skutków, dlatego mam nadzieję, że ten Dziennik był dla Państwa przydatny i rozjaśnił nieco podłoże tej choroby.
-

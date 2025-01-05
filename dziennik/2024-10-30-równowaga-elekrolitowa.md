@@ -1,4 +1,4 @@
-# Stosunek potasu do sodu w diecie: oto dlaczego (i jak) trzeba o niego zadbać.
+# Stosunek potasu do sodu w diecie: oto dlaczego (i jak) trzeba o niego zadbać
 
 Dzień dobry o poranku,
 
@@ -57,3 +57,4 @@ to wtedy powinniśmy zadbać o to, żeby w jadłospisie znalazły się produkty 
 fasolę białą, pomidory, dynię, buraki, brokuły, koncentrat pomidorowy, awokado, banany, suszone morele, suszone śliwki, nasiona lnu, pestki dyni, pestki słonecznika, migdały, orzechy laskowe i włoskie, pistacje, komosę ryżową, kakao, natkę pietruszki, a także dorsza i łososia.
 
 Dzięki temu zapewnimy organizmowi optymalne funkcjonowanie.
+

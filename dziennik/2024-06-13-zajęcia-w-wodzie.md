@@ -1,4 +1,4 @@
-# Bezpieczna dla każdego, wszechstronna forma aktywności, zwłaszcza latem.
+# Bezpieczna dla każdego, wszechstronna forma aktywności, zwłaszcza latem
 
 Dzień dobry o poranku,
 
@@ -57,3 +57,4 @@ Warto więc korzystać z pogody i praktykować ćwiczenia w wodzie, w tym gimnas
 Oczywiście tego typu aktywności można praktykować cały rok – z uwagi na dostęp do krytych basenów. Niemniej lato może być dobrym impulsem, aby zainteresować się ćwiczeniami w wodzie.
 
 dr Bartek Kulczyński
+

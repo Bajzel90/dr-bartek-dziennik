@@ -1,4 +1,4 @@
-# Tradycyjna polska zupa buraczkowa – nawadnia, orzeźwia i wzmacnia zdrowie.
+# Tradycyjna polska zupa buraczkowa – nawadnia, orzeźwia i wzmacnia zdrowie
 
 Dzień dobry o poranku,
 
@@ -24,8 +24,7 @@ Mogę wymienić zarówno aspekty praktyczne, jak i zdrowotne:
 
 7. Wszechstronność – potrawę tę można przygotować na wiele sposobów, dostosowując do własnych preferencji smakowych.
 
-
-## Przepisy 
+## Przepisy
 
 prawdopodobnie wywodzi się z tradycji podawania zup na zimno, które były popularne w regionie Wielkiego Księstwa Litewskiego, obejmującego obecne tereny Litwy, Białorusi, części Ukrainy oraz Polski.
 
@@ -42,4 +41,3 @@ Sopa de Aguacate (Meksyk) – awokado, ogórki, bulion z kurczaka, sok z limonki
 Mul naengmyeon (Korea) – bulion wołowy, makaron gryczany, ogórki, gruszki, jajko na twardo, ocet, musztarda, sól.
 
 dr Bartek Kulczyński
-

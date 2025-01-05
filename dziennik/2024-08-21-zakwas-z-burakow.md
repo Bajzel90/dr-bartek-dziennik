@@ -1,4 +1,4 @@
-# Napój z buraków, który sam lubię robić oraz jak go wykorzystać w kuchni.
+# Napój z buraków, który sam lubię robić oraz jak go wykorzystać w kuchni
 
 Dzień dobry o poranku,
 
@@ -57,4 +57,3 @@ Zakwas można pić bezpośrednio jako zdrowy napój. Nada się także jako dodat
 Ciekawym smakowo rozwiązaniem jest także zrobienie lemoniady buraczanej:
 
 zakwas z buraków mieszamy z wodą niegazowaną (może być też gazowana), dodajemy sok z cytryny, miód i listki mięty.
-

@@ -1,4 +1,4 @@
-# O chorobie, która nie istnieje, oraz morał, jaki z tego płynie.
+# O chorobie, która nie istnieje, oraz morał, jaki z tego płynie
 
 Dzień dobry o poranku,
 
@@ -59,4 +59,3 @@ dr Bartek Kulczyński
 Przywołana literatura:
 
 [1] F.A. Cadegiani, C.E. Kater, Adrenal fatigue does not exist: a systematic review, „BMC Endocr Disord” 2016.
-

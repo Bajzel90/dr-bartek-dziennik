@@ -40,3 +40,4 @@ Warzywa: czarna marchew, cebula czerwona, czarna fasola, czerwona kapusta, czarn
 Inne: czarny ryż.
 
 Podane źródła antocyjanów najlepiej jeść na surowo i gotowane w wodzie lub na parze. W ich przypadku warto unikać smażenia oraz pieczenia, bo tracą wtedy nawet ok. 45% antocyjanów.
+

@@ -1,4 +1,4 @@
-# Aby szybko się zagoiło, czyli co robić w przypadku urazów.
+# Aby szybko się zagoiło, czyli co robić w przypadku urazów
 
 Dzień dobry o poranku,
 
@@ -53,3 +53,4 @@ Sprawdzą się przede wszystkim 3 rośliny lecznicze:
 **Nasienie i kora kasztanowca** – działa przeciwobrzękowo. Zaleca się go stosować w zwichnięciach, stłuczeniach, oparzeniach oraz w obtarciach naskórka.
 
 **ziele rdestu ptasiego** – można przygotować z niego odwar i wykorzystać zewnętrznie do obmywania i okładów w celu przyspieszenia gojenia się ran i otarć.
+

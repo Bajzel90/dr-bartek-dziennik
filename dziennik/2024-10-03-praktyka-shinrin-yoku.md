@@ -1,4 +1,4 @@
-# Prozdrowotna praktyka shinrin-yoku, czyli o kąpielach leśnych i uważności.
+# Prozdrowotna praktyka shinrin-yoku, czyli o kąpielach leśnych i uważności
 
 Dzień dobry o poranku,
 
@@ -53,3 +53,4 @@ Literatura fachowa wskazuje, że kąpiele leśne przynoszą wiele dobrego naszem
 wspierają układ odpornościowy, redukują ciśnienie tętnicze, obniżają sztywność tętnic, łagodzą objawy depresji, niepokój i napięcie psychiczne, obniżają poziom kortyzolu, zmniejszają stany zapalne.
 
 Dla mnie jest to przyjemna forma odprężenia i praktyki uważności, zawsze nie mogę się doczekać spacerów po lesie.
+

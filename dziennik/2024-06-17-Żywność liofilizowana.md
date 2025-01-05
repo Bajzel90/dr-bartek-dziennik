@@ -1,10 +1,4 @@
----
-id: 2024-06-17-Żywność liofilizowana
-aliases: []
-tags: []
----
-
-# Liofilizowane owoce, warzywa i nie tylko; czy są wartościowe?
+# Liofilizowane owoce
 
 Dzień dobry o poranku,
 
@@ -58,4 +52,3 @@ To przede wszystkim koszty:
 W efekcie produkty liofilizowane są drogie, droższe od świeżych i sezonowych warzyw i owoców.
 
 dr Bartek Kulczyński
-

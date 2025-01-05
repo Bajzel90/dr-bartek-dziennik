@@ -47,3 +47,4 @@ Jednak – gdybym miał subiektywnie wskazać na najbardziej wartościowe produk
 Powód jest prosty: najwięcej badań naukowych potwierdzających prozdrowotne działanie mają właśnie jogurt naturalny i kefir.
 
 dr Bartek Kulczyński
+

@@ -1,4 +1,4 @@
-# Korzyści ze spożywania czarnuszki i propozycje jest stosowania.
+# Korzyści ze spożywania czarnuszki i propozycje jest stosowania
 
 Dzień dobry o poranku,
 
@@ -49,3 +49,4 @@ Po uprzednim zmieleniu, czarnuszkę można też wykorzystać jako zamiennik czar
 Na podstawie badań – można zaproponować spożywanie nasion z czarnuszki w ilości ok. 2-3 g/dzień (ok. 0,5 łyżeczki).
 
 Dodam, że nie istnieją żadne konkretne przeciwwskazania co do spożywania zwyczajowych ilości czarnuszki.
+

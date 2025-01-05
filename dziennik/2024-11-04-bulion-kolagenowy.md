@@ -1,4 +1,4 @@
-# Esencjonalny wywar dostarczający dużo kolagenu – najlepszy przepis.
+# Esencjonalny wywar dostarczający dużo kolagenu – najlepszy przepis
 
 Dzień dobry o poranku,
 
@@ -36,11 +36,11 @@ Aby dostarczyć duże ilości wspomnianych aminokwasów – należy dobrać odpo
 
 Poniżej podaję szczegółowy skład bulionu kolagenowego wraz z dodatkami w postaci warzyw i octu jabłkowego, który w pewnym stopniu może pomóc wydobyć aminokwasy z gotujących się kości.
 
-### „Baza kostna”:
+### „Baza kostna”
 
 2-3 duże kości szpikowe wołowe, 5-6 kurzych łapek oczyszczonych i pozbawionych pazurów, 5 kurzych skrzydełek, 2 kurze szyjki.
 
-### Dodatki dla smaku i zdrowia:
+### Dodatki dla smaku i zdrowia
 
 2 marchewki, 2 łodygi selera naciowego, 2 korzenie pietruszki, 1 główka czosnku, 1 cebula, 1 kawałek świeżego imbiru (3-4 cm), 1 liść laurowy, 3-4 ziarna ziela angielskiego, 1 łyżeczka ziarenek czarnego pieprzu, sól morska do smaku, 2 łyżki octu jabłkowego.
 
@@ -61,4 +61,3 @@ Poniżej podaję szczegółowy skład bulionu kolagenowego wraz z dodatkami w po
 7. Po zakończonym gotowaniu – bulion przecedź przez sitko o drobnych oczkach, aby pozbyć się kości i resztek warzyw.
 
 8. Przelej bulion do czystego garnka. Na tym etapie dopraw solą – do smaku. Wystudzony bulion możesz trzymać w lodówce przez ok. 5 dni.
-

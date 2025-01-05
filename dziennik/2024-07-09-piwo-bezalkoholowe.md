@@ -45,3 +45,4 @@ Podsumuję: w mojej ocenie piwo bezalkoholowe (zwłaszcza 0,0%) można traktowa�
 Dla osób, które sięgają po tradycyjne piwo, a chciałyby przestać je spożywać, piwo 0,0% stanowi dobrą alternatywę.
 
 A co z osobami, które w ogóle piwa nie piją? Wydaje mi się, że nie byłoby mądre zachęcanie, aby zaczęły sięgać po piwo 0,0% – gdyż może stać się tak, że smak przypadnie do gustu i… pojawi się chęć spróbowania piwa alkoholowego. Nie można wykluczyć takiego scenariusza. A wiadome jest, że nie warto „wkręcać się” w alkohol.
+

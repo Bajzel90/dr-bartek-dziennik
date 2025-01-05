@@ -1,4 +1,4 @@
-# O zanieczyszczeniach w rybach z Morza Bałtyckiego. Oficjalne dane.
+# O zanieczyszczeniach w rybach z Morza Bałtyckiego. Oficjalne dane
 
 Dzień dobry o poranku,
 
@@ -59,3 +59,4 @@ pełnowartościowego białka, kwasów tłuszczowych omega-3, selenu, jodu, cynku
 No i co jeszcze warto zaznaczyć: nawet jeśli ryby zawierają pewne zanieczyszczenia, to zwykle mieszczą się one w normie – i korzyści ze spożywania ryb przeważają nad ryzykiem zdrowotnym.
 
 Tak trzeba na to patrzeć.
+

@@ -48,7 +48,7 @@ Korzyści zdrowotne ze spożywania soków owocowych są bardzo ograniczone. Ich 
 
 Uważam, że od czasu do czasu warto sięgnąć po sok owocowy, lecz nie należy z nimi przesadzać.
 
-##Sok, nektar czy napój?
+## Sok, nektar czy napój?
 
 Zwrócę jeszcze uwagę na nazewnictwo różnych napojów na bazie owoców, które możemy spotkać na półkach sklepowych.
 

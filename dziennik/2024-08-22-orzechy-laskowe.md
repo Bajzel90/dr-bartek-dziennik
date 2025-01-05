@@ -1,4 +1,4 @@
-# Jedne z najzdrowszych orzechów i jak je najlepiej spożywać.
+# Jedne z najzdrowszych orzechów i jak je najlepiej spożywać
 
 Dzień dobry o poranku,
 
@@ -53,3 +53,4 @@ Ale poza tym warto rozważyć je w formie posiekanej – wtedy będą się dobrz
 - jako składnik zup krem (na bazie dyni, marchwi, kalafiora).
 
 Bez rozdrabniania sprawdzą się też jako dodatek do sałatek, w tym sałatki z buraków. Można je wtedy podprażyć na patelni przez około dwie-trzy minuty.
+

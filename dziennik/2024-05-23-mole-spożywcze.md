@@ -1,8 +1,3 @@
----
-id: 2024-05-23-mole-spożywcze
-aliases: []
-tags: []
----
 # Dobre praktyki przeciwdziałania molom spożywczym
 
 Dzień dobry o poranku,
@@ -62,5 +57,5 @@ Ale kiedy mamy do czynienia z pokaźną inwazją i naturalne sposoby okazują si
 - **pułapki feromonowe** – zawierają syntetyczne feromony, które przyciągają mole. Gdy przylecą do pułapki, przyklejają się do lepkiej powierzchni, co przerywa cykl reprodukcyjny moli. Są nietoksyczne i bezpieczne dla żywności.
 
 - **preparaty owadobójcze** w postaci proszku lub aerozolu – przygotowanym
-preparatem można opryskiwać miejsca, w których gnieżdżą się omawiane owady (np. szczeliny drzwi, wnętrza szaf, okolice listew podłogowych itd.). Jednak przy ich stosowaniu należy dokładnie zapoznać się z instrukcją stosowania, gdyż
-tego typu preparaty zwykle nie mogą mieć żadnego kontaktu z żywnością.
+  preparatem można opryskiwać miejsca, w których gnieżdżą się omawiane owady (np. szczeliny drzwi, wnętrza szaf, okolice listew podłogowych itd.). Jednak przy ich stosowaniu należy dokładnie zapoznać się z instrukcją stosowania, gdyż
+  tego typu preparaty zwykle nie mogą mieć żadnego kontaktu z żywnością.

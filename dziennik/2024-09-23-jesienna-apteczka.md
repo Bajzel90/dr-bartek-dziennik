@@ -1,4 +1,4 @@
-# Czego warto jeść więcej i włączyć do jadłospisu, gdy nastaje jesień.
+# Czego warto jeść więcej i włączyć do jadłospisu, gdy nastaje jesień
 
 Dzień dobry o poranku,
 
@@ -41,3 +41,4 @@ Ja zwykle zaopatrzam się w dwa poniższe:
 Oczywiście – tematu odporności nie da się rozpracować w jednym Dzienniku, dlatego będę go kontynuował co jakiś czas, opisując nie tylko oczywiste sposoby na odporność, lecz także mniej znane.
 
 Jak odporność, to także jelita – w mikrobiocie jelitowej mieści się ponad 70% układu odpornościowego. Dlatego też warto rozważyć bakterie probiotyczne, które przyczyniają się do odporności oraz są pomocne, gdy zachodzi konieczność antybiotykoterapii.
+

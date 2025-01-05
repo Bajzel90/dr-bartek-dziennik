@@ -1,4 +1,4 @@
-# Chyba nie przesadziłem w tytule: 5 mniej znanych zdrowych produktów.
+# Chyba nie przesadziłem w tytule: 5 mniej znanych zdrowych produktów
 
 Dzień dobry o poranku,
 
@@ -26,12 +26,12 @@ Jest to pseudozboże pochodzące z Ameryki Środkowej, które coraz częściej j
 
 W 1 standardowej porcji (60 g suchych ziaren) znajdują się m.in.:
 
-- białko – 8,2 g, 
-- błonnik – 4,0 g, 
-- wapń – 95,5 mg, 
-- żelazo – 6,5 mg, 
-- magnez – 150 mg, 
-- potas – 305 mg, 
+- białko – 8,2 g,
+- błonnik – 4,0 g,
+- wapń – 95,5 mg,
+- żelazo – 6,5 mg,
+- magnez – 150 mg,
+- potas – 305 mg,
 - cynk – 1,75 mg.
 
 Ponadto amarantus jest bezglutenowy.
@@ -63,3 +63,4 @@ Zawiera on wyjątkowy związek – inulinę. Jest to substancja, która odżywia
 obniża poziom glukozy we krwi, redukuje poziom kwasu moczowego i trójglicerydów, usprawnia pracę jelit, zwiększa wchłanianie magnezu i cynku z przewodu pokarmowego.
 
 Topinambur można stosować jako zamiennik ziemniaków, w tym można zrobić z niego puree, jak i można przygotować na jego bazie zupę krem, chipsy warzywne, frytki czy placki.
+

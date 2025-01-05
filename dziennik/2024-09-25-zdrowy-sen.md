@@ -1,4 +1,4 @@
-# Zdrowy sen, zdrowy organizm: składniki w diecie, które wspierają sen.
+# Zdrowy sen, zdrowy organizm: składniki w diecie, które wspierają sen
 
 Dzień dobry o poranku,
 
@@ -8,7 +8,7 @@ W końcu człowiek przesypia średnio aż 1/3 życia. To świadczy, że spanie j
 
 I to, co jemy, istotnie przyczynia się do jakości snu. Składniki diety mogą poprawić sen i sprawić, że będzie bardziej regenerujący.
 
-## Najpierw: co się dzieje z ciałem,
+## Najpierw: co się dzieje z ciałem
 
 gdy brakuje nam snu (pod względem ilościowym i jakościowym)?
 

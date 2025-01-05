@@ -1,4 +1,4 @@
-# Właśnie dojrzewa – cenny dla zdrowia owoc, który warto teraz jadać.
+# Właśnie dojrzewa – cenny dla zdrowia owoc, który warto teraz jadać
 
 Dzień dobry o poranku,
 
@@ -51,3 +51,4 @@ Porzeczki odnajdą się również jako główny składnik. Można z nich przygot
 Wyobraźmy sobie chłodne, orzeźwiające napoje: koktajle, sorbety, napoje herbaciane, kompoty, a także lemoniady skomponowane ze starannie wybranych zdrowych elementów diety, do tego chłodne zupy z dużym potencjałem prozdrowotnym.
 
 dr Bartek Kulczyński
+

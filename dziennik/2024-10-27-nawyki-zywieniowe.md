@@ -1,4 +1,4 @@
-# 2 niepozorne, dobre dla zdrowia nawyki związane z odżywianiem.
+# 2 niepozorne, dobre dla zdrowia nawyki związane z odżywianiem
 
 Dzień dobry o poranku,
 
@@ -43,4 +43,3 @@ I właśnie przespacerowanie się tuż po posiłku sprawia, że wzrost poziomu g
 Do tego, im niższy wzrost stężenia glukozy we krwi, tym mniejsze uwalnianie insuliny – której nadmiar sprzyja odkładaniu się tkanki tłuszczowej.
 
 Jeśli więc to możliwe, po obfitej uczcie warto się przespacerować; dla wielu osób będzie to dużo lepsze niż np. drzemka.
-

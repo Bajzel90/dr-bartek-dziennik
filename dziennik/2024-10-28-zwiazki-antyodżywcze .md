@@ -1,4 +1,4 @@
-# O związkach antyodżywczych w warzywach i owocach.
+# O związkach antyodżywczych w warzywach i owocach
 
 Dzień dobry o poranku,
 
@@ -71,4 +71,3 @@ Gdybym miał wskazać ciemną stronę składników antyodżywczych, to co najwy�
 Na przykład, jeżeli mamy niedobór żelaza, to po prostu staramy się nie popijać herbatą posiłków zawierających żelazo. Jeżeli zmagamy się z deficytem wapnia, to robimy przerwę pomiędzy zjedzeniem np. szpinaku a produktów mlecznych itd.
 
 W normalnej sytuacji, kiedy jesteśmy dobrze odżywieni, to według mnie w ogóle nie musimy sobie zaprzątać głowy tym tematem.
-

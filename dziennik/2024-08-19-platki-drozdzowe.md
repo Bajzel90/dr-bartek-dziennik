@@ -1,4 +1,4 @@
-# Smaczniejsze i zdrowsze potrawy dzięki płatkom drożdżowym.
+# Smaczniejsze i zdrowsze potrawy dzięki płatkom drożdżowym
 
 Dzień dobry o poranku,
 
@@ -49,3 +49,4 @@ Z uwagi na wspomniany profil smakowy – płatki drożdżowe mogą być szeroko 
 - zapiekanek – wzbogacają smak i tworzą chrupiącą warstwę na ich wierzchu.
 
 I jako składnik wielu innych potraw, np. jajecznicy, omletów, past kanapkowych pasztetów warzywnych.
+

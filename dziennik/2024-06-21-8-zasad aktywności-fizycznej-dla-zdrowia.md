@@ -1,4 +1,4 @@
-# Warto się regularnie ruszać, ćwiczyć, ale robiąc to z głową. Oto 8 zasad.
+# Warto się regularnie ruszać, ćwiczyć, ale robiąc to z głową. Oto 8 zasad
 
 Dzień dobry w piątek,
 
@@ -66,12 +66,13 @@ Jeśli cenią sobie Państwo moje opracowania tematów o zdrowiu, to dla chętny
 
 Korzystając z nich, jednocześnie wspierają Państwo moją darmową działalność na YouTube i darmowy Dziennik, za co dziękuję. To dla mnie ważne i pozwala mi kontynuować pracę:
 
-1) Mój poradnik Uwolnij się od choroby refluksowej przełyku, w tym zgagi ›
+1. Mój poradnik Uwolnij się od choroby refluksowej przełyku, w tym zgagi ›
 
-2) Mój e-book z dietą śródziemnomorską – jadłospis w 9 kalorycznościach ›
+2. Mój e-book z dietą śródziemnomorską – jadłospis w 9 kalorycznościach ›
 
-3) Mój zestaw przepiśników Wiosna i lato na talerzu oraz Wiosna i lato z ziołami ›
+3. Mój zestaw przepiśników Wiosna i lato na talerzu oraz Wiosna i lato z ziołami ›
 
-4) Mój przepiśnik Sztuka zdrowego grillowania: 50 przepisów i 12 zasad ›
+4. Mój przepiśnik Sztuka zdrowego grillowania: 50 przepisów i 12 zasad ›
 
 dr Bartek Kulczyński
+

@@ -53,3 +53,4 @@ Bez względu na przyczynę powstania wrzodów żołądka, to żeby wspomóc ich 
 Wiadomo, że leczenie wrzodów żołądka powinno przebiegać pod kontrolą lekarza, ale samemu też warto mieć ogólne pojęcie, co je powoduje, jakie czynniki zwiększają ryzyko itd. Mam więc nadzieję, że ten krótki Dziennik był dla Państwa pomocny.
 
 dr Bartek Kulczyński
+

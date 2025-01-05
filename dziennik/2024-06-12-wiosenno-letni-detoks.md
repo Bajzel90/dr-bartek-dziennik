@@ -1,9 +1,3 @@
----
-id: 2024-06-12-wiosenno-letni-detoks
-aliases: []
-tags: []
----
-
 # Jak można pobudzić procesy związane z oczyszczaniem organizmu?
 
 Dzień dobry o poranku,

@@ -61,3 +61,4 @@ Regularne przebywanie na świeżym powietrzu i podejmowanie się ruchu mają klu
 Ogólnie zaleca się, żeby każdego tygodnia poświęcać przynajmniej 2,5 h na aktywność fizyczną, przy czym najlepiej praktykować ją na świeżym powietrzu właśnie (np. w lesie, parku, nad wodą).
 
 Jeśli chodzi o wydłużenie życia w zdrowiu, to bardzo dużo możemy zrobić poprzez odpowiednią dietę.
+

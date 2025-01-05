@@ -1,4 +1,4 @@
-# Już 1 mg ponad normę może szkodzić zdrowiu. O kwasie moczowym.
+# Już 1 mg ponad normę może szkodzić zdrowiu. O kwasie moczowym
 
 Dzień dobry o poranku,
 
@@ -32,7 +32,7 @@ Stąd warto raz do roku lub raz na dwa lata sprawdzić sobie poziom kwasu moczow
 
 Jeśli zaś współwystępują u nas choroby układu krążenia, to dobrze jest mieć nie więcej niż 5 mg/dl.
 
-## A co pomaga obniżyć kwas moczowy,
+## A co pomaga obniżyć kwas moczowy
 
 gdy jest podwyższony? Oto najbardziej skuteczne sposoby. Nie jest to nic odkrywczego.
 
@@ -49,3 +49,4 @@ Dość oczywiste i proste rzeczy, jednak nie wszystko, co proste jest łatwo wdr
 4. Stosowanie wysokich ilości witaminy C – otóż w badaniach wykazano, że przyjmowanie 500 mg witaminy C dziennie przez 2 miesiące sprzyja obniżeniu poziomu kwasu moczowego o 1 mg/dl, co oznacza bardzo dobry efekt jak na tak prostą interwencję.
 
 5. Praktykowanie diety śródziemnomorskiej – według badań dieta śródziemnomorska pomaga odwrócić hiperurykemię, a więc przywrócić prawidłowy poziom kwasu moczowego we krwi.
+

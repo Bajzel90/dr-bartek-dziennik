@@ -1,4 +1,4 @@
-# Aromatyczny i zdrowy dip, który warto robić do potraw.
+# Aromatyczny i zdrowy dip, który warto robić do potraw
 
 Dzień dobry o poranku,
 
@@ -40,3 +40,4 @@ Guacamole jest wszechstronnym dipem, który można podawać z wieloma potrawami.
 Sprawdzi się jako dodatek np. do kanapek, tortilli, pizzy, sałatek, burgerów, makaronów, placków ziemniaczanych, a także omletów czy grillowanych mięs.
 
 A Państwo robią guacamole? Awokado samo w sobie nie każdemu smakuje, ale w formie guacamole jest naprawdę smaczne.
+

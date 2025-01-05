@@ -51,4 +51,3 @@ dr Bartek Kulczyński
 Przywołana literatura:
 
 [1] K. Chmiel, Z. Kubińska, T. Derewiecki, Terapie z udziałem zwierząt w rehabilitacji różnych form niepełnosprawności, „Problemy Higieny i Epidemiologii” 2014.
-

@@ -51,3 +51,4 @@ Jest to substancja, która ma potwierdzoną skuteczność działania w wielu bad
 Co ciekawe, badania pokazują, że w niektórych aspektach pasty z BioHAP wykazują nawet wyższą skuteczność działania niż pasty do zębów z fluorem.
 
 Jeśli więc są Państwo sceptycznie nastawieni do past z fluorem, co jest przeze mnie częściowo zrozumiałe, to warto rozważyć właśnie pastę z biomimetycznym hydroksyapatytem.
+

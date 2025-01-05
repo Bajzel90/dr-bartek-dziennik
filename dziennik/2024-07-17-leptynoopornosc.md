@@ -57,3 +57,4 @@ Niemniej na podstawie przeglądu literatury przygotowałem kilka wskazówek, kt�
 Jeśli chodzi o aspekty żywieniowe – zarówno te wyżej wymienione, jak i kilka jeszcze innych, to pomocny będzie mój e-book z gotową dietą śródziemnomorską w polskiej wersji.
 
 dr Bartek Kulczyński
+

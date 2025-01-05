@@ -55,3 +55,4 @@ Jeśli chodzi o czynniki niezwiązane bezpośrednio z odżywianiem, należy wied
 Badacze zauważyli, że odżywianie się zgodnie z „wzorcem śródziemnomorskim” wiąże się z niższym aż o 21% ryzykiem cholecystektomii, czyli usunięcia pęcherzyka żółciowego.
 
 W ogóle – dieta śródziemnomorska to jeden z lepiej przebadanych uniwersalnych modeli żywienia pod wieloma względami, w tym np. pod względem zdrowia nerek, serca, wątroby czy mózgu.
+

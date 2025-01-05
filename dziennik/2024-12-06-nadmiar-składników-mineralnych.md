@@ -1,4 +1,4 @@
-# Rzadko poruszany temat, o którym warto jednak mieć trochę wiedzy.
+# Rzadko poruszany temat, o którym warto jednak mieć trochę wiedzy
 
 Dzień dobry o poranku,
 
@@ -65,3 +65,4 @@ W przebiegu selenozy, poza nieprzyjmowaniem preparatów z tym składnikiem, ogra
 Rzadko się mówi i słyszy o omówionym temacie, dlatego chciałem zwrócić Państwa uwagę, że coś takiego może mieć miejsce.
 
 Dziękuję za ten tydzień i do następnego.
+

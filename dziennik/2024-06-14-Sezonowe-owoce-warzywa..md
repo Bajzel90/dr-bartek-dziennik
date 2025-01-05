@@ -1,4 +1,4 @@
-# Gdybym miał wytypować 3 warzywa i 3 owoce na wiosnę i lato, wybieram te.
+# Gdybym miał wytypować 3 warzywa i 3 owoce na wiosnę i lato, wybieram te
 
 Dzień dobry o poranku,
 
@@ -53,4 +53,3 @@ Sulforafan zaliczamy do jednego z najsilniejszych naturalnych związków przeciw
 Ponadto działa przeciwzapalnie, stąd warzywo to ma zastosowanie u osób zmagających się z przewlekłym stanem zapalnym.
 
 Jak więc widzimy, niekorzystanie z sezonowych warzyw i owoców dostępnych w okresie wiosenno-letnim to marnowanie szansy, aby poprawić swoje zdrowie.
-

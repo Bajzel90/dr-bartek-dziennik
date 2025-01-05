@@ -31,3 +31,4 @@ dressing do sałatek (np. z burakami, kozim serem, rukolą lub orzechami), dodat
 Do wypieków, dań tradycyjnych i pieczywa lepiej sprawdzi się mak niebieski, który ma orzechowy i bardziej intensywny smak.
 
 Z kolei mak biały ma słodszy i subtelniejszy smak niż mak niebieski; pasuje on m.in. do rogali świętomarcińskich, muffinek, owsianki czy musu owocowego.
+

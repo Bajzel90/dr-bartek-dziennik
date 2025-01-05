@@ -53,4 +53,3 @@ Może zmniejszyć ryzyko kamieni nerkowych o 12-40%.
 Jest to dobrze przebadany model żywienia i bardzo polecany jako uniwersalny sposób odżywiania, który dopasowujemy do siebie.
 
 dr Bartek Kulczyński
-

@@ -1,12 +1,11 @@
-# Nie tylko na trawienie: 6 popularnych przypraw kuchni śródziemnomorskiej.
+# Nie tylko na trawienie: 6 popularnych przypraw kuchni śródziemnomorskiej
 
 Dzień dobry o poranku,
 
 przyprawy to serce kuchni śródziemnomorskiej – nadają daniom smaku, aromatu i prozdrowotności.
 
-> [!INFO] 
+> [!INFO]
 > Myślę, że nie do końca zdajemy sobie sprawę, jak cenne dla zdrowia mogą być przyprawy, więc warto przypomnieć.
-
 
 ## Oregano
 
@@ -49,3 +48,4 @@ Ma ona udowodnione działanie wspomagające eliminację metali ciężkich z nasz
 Oczywiście – żeby najlepiej wykorzystać zioła dla zdrowia, w tym zioła przyprawowe – robi się z nich napary, odwary, maceraty itd.
 
 Niemniej, również i spożywanie przypraw w formie suszonej daje korzyści zdrowotne. W wielu zresztą doświadczeniach nad ziołami badano wpływ właśnie suszonych ziół.
+

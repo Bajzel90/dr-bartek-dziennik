@@ -41,3 +41,4 @@ Badania naukowe, do których dotarłem, potwierdzają skuteczność akupunktury 
 Bazując na analizie aktualnej literatury naukowej, podsumuję tak: akupunktura jest wartościową metodą wspomagania leczenia wybranych dolegliwości. Uważam, że gdy konwencjonalne metody czy dietoterapia nie przynoszą oczekiwanych rezultatów, to warto rozważyć wypróbowanie akupunktury.
 
 Dodam tu: dobrze jest poszukać sprawdzonego specjalisty, gdyż skuteczność akupunktury jest bardzo uzależniona od umiejętności osoby przeprowadzającej zabieg.
+

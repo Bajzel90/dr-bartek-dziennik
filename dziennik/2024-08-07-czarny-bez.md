@@ -34,4 +34,3 @@ Związki te drażnią przewód pokarmowy, powodując biegunkę. Co więcej, mog�
 Lecz nie taki ten diabeł straszny. Jeśli bowiem owoce zbieramy, to wystarczy poddać je suszeniu lub obróbce termicznej. A wówczas stają się dla nas zupełnie bezpieczne.
 
 Nie spożywamy po prostu świeżych owoców. Spożywamy bądź to przetwory na bazie bzu czarnego, bądź w formie suszonej.
-

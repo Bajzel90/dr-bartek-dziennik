@@ -1,4 +1,4 @@
-# 5 praktyk, które pomogą uchronić przed infekcjami wirusowymi i bakteryjnymi.
+# 5 praktyk, które pomogą uchronić przed infekcjami wirusowymi i bakteryjnymi
 
 Dzień dobry o poranku,
 
@@ -33,7 +33,6 @@ Oto okoliczności, kiedy szczególnie warto umyć ręce, by powyższe procenty m
 
 Myć ręce należy co najmniej 20 sekund i energicznym ruchem, aby spowodować tarcie.
 
-
 ## 2. Rzadziej dotykaj twarzy
 
 Z badań wynika, że człowiek przeciętnie dotyka twarzy 23 razy na godzinę. Każde dotknięcie może wprowadzić patogeny znajdujące się na rękach do oczu, nosa i ust, co zwiększa ryzyko pojawienia się infekcji. Warto więc starać się kontrolować ten odruch.
@@ -55,3 +54,4 @@ To m.in. dlatego, że w takich warunkach obniżeniu ulega tempo oczyszczania gó
 W zamkniętych przestrzeniach, a szczególnie w okresie jesienno-zimowym, kiedy okna są rzadziej otwierane ze względu na niskie temperatury, stężenie patogenów w mieszkaniu takich jak wirusy oraz bakterie może znacząco wzrastać.
 
 Dlatego warto wietrzyć mieszkanie co najmniej dwa razy dziennie przez 5-10 minut, szczególnie rano i wieczorem, aby zapobiegać gromadzeniu się bakterii i wirusów.
+

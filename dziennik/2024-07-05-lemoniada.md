@@ -35,6 +35,7 @@ Lemoniada malinowa z zieloną herbatą: 4 cytryny, litr wody, 1 szklanka śwież
 ## Jak zrobić dobrą lemoniadę?
 
 Oto jeszcze kilka wskazówek.
+
 1. Korzystaj z dojrzałych cytryn i innych owoców, aby były pełne smaku i soczyste. Świeże owoce dadzą najlepszy smak i aromat.
 
 2. Najlepszy do lemoniady jest świeżo wyciśnięty sok z cytryny (bądź innych owoców). Gotowe napoje mogą zawierać dodatkowy cukier.
@@ -42,3 +43,4 @@ Oto jeszcze kilka wskazówek.
 3. Lemoniada najlepiej smakuje schłodzona. Po kilku godzinach w lodówce smaki dobrze się przegryzą. A ponadto – zimna lemoniada często wydaje się mniej kwaśna i bardziej orzeźwiająca.
 
 4. Jeśli używasz dodatkowych składników (mięta czy przyprawy), dodawaj je stopniowo, by zachować równowagę między smakami i aromatami, tak by żaden z nich nie dominował nad pozostałymi.
+

@@ -1,4 +1,4 @@
-# Cenne dla zdrowia korzenne przyprawy i jak je wykorzystać w kuchni (ze smakiem).
+# Cenne dla zdrowia korzenne przyprawy i jak je wykorzystać w kuchni (ze smakiem)
 
 Dzień dobry o poranku,
 
@@ -57,3 +57,4 @@ Dobrze łączy się on z kawą, grzańcami, piernikami, pomarańczami, babkami, 
 Składniki obecne w gałce muszkatołowej chronią żołądek, a także wątrobę przed uszkodzeniami.
 
 Można ją wykorzystać jako posypkę do prażonych orzechów i jako dodatek np. do wytrawnych tart, zupy grzybowej, żurku, barszczu białego, żurku, zapiekanki ziemniaczanej, pierogów, szarlotki oraz keksów.
+
